@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <response>
-    <version id="1.4.4"/>
+    <version id="1.4.5"/>
     <liveType id="1" name="基础频道">
         <channel id="1001" name="CCTV-1" aliasname="cctv1" voiceTag="中央一台#中央一套#中央台#综合频道#cctv1#" free="15">
 			<url id=" 0" src="http://api.veryhd.net/live_proxy/brtn/CCTV1HD.m3u8" tag="0" />
@@ -40,7 +40,6 @@
 			<url id=" 3" src="http://api.veryhd.net/Upload/live_proxy/brtn.php?channel=CCTV5" tag="0" />
 			<url id=" 4" src="http://zb.v.qq.com:1863/?progid=1641251988&amp;ostype=ios" tag="0" />
 			<url id=" 5" src="http://api.digomate.com/index.php/tv/source?key=Fp66FNz5Bejr" tag="0" />
-			<url id=" 6" src="http://live.hdpfans.com/tv35/cctv5_1300.m3u8/1409137077_6c5016cc695f10ecaef5db2ace8cfa4fs" tag="0" />
         </channel>
         <channel id="1006" name="CCTV-6" aliasname="cctv6" voiceTag="中央六台#中央六套#中央电影频道#中央电影台#cctv6#" free="15">
 		    <url id=" 0" src="http://api.veryhd.net/live_proxy/brtn/CCTV6.m3u8" tag="0" />
@@ -48,7 +47,6 @@
 			<url id=" 2" src="http://proxy.vsf123.com/iptv/iptv_url/brtv/brtn.php?channel=17" tag="0" />
 			<url id=" 3" src="http://vapptime.cntv.wscdns.com/cache/219_/seg0/index.m3u8" tag="0" />
 			<url id=" 4" src="http://api.digomate.com/index.php/tv/source?key=M8SduhZ17AL5" tag="0" />
-			<url id=" 4" src="http://live.hdpfans.com/tv35/cctv6HD_1800.m3u8/1409137104_2b874849edd495f64615c2c159405acc" tag="0" />
 		</channel>
         <channel id="1007" name="CCTV-7" aliasname="cctv7" voiceTag="中央七台#中央七套#农业频道#军事频道#中央农业频道#中央军事频道#中央军事台#cctv7#" free="15">
 			<url id=" 0" src="http://vapptime.cntv.wscdns.com/cache/224_/seg0/index.m3u8" tag="0" />
@@ -78,8 +76,7 @@
 			<url id=" 2" src="http://proxy.vsf123.com/iptv/iptv_url/brtv/brtn.php?channel=23" tag="0" />
 			<url id=" 3" src="http://api.digomate.com/index.php/tv/source?key=gw7Q9RSHDNsd" tag="0" />
 			<url id=" 4" src="http://api.veryhd.net/Upload/live_proxy/brtn.php?channel=CCTV10" tag="0" />
-			<url id=" 5" src="http://live.hdpfans.com/tv35/cctv10.m3u8/1409137315_cec69e8ae79aa7e8da4ab8bbd401d81d" tag="0" />
-		    <url id=" 6" src="http://hls.yy.com/live/46645489_2196889341.m3u8" tag="0" />
+		    <url id=" 5" src="http://hls.yy.com/live/46645489_2196889341.m3u8" tag="0" />
 		</channel>
         <channel id="1011" name="CCTV-11" aliasname="cctv11" voiceTag="中央十一台#中央十一套#戏曲频道#中央戏曲频道#中央戏曲台#cctv11#" free="15">
 			<url id=" 0" src="http://api.veryhd.net/live_proxy/brtn/CCTV11.m3u8" tag="0" /> 
@@ -87,7 +84,6 @@
 			<url id=" 2" src="http://vapptime.cntv.wscdns.com/cache/239_/seg0/index.m3u8" tag="0" />
 			<url id=" 3" src="http://api.veryhd.net/Upload/live_proxy/brtn.php?channel=CCTV11" tag="0" />
 		    <url id=" 4" src="http://api.digomate.com/index.php/tv/source?key=w64FDH67iW7d" tag="0" />
-			<url id=" 5" src="http://live.hdpfans.com/tv35/cctv11.m3u8/1409137334_8a6c2ff8134a1f418ee5427c64b3ba40" tag="0" />
 		</channel>	
         <channel id="1012" name="CCTV-12" aliasname="cctv12" voiceTag="中央十二台#中央十二套#社会与法频道#法制频道#cctv12#" free="15">
 			<url id=" 0" src="http://api.veryhd.net/live_proxy/brtn/CCTV12.m3u8" tag="0" /> 
@@ -96,7 +92,6 @@
             <url id=" 3" src="http://proxy.vsf123.com/iptv/iptv_url/brtv/brtn.php?channel=20" tag="0" />
 			<url id=" 4" src="http://api.digomate.com/index.php/tv/source?key=Whax9gQGR4tE" tag="0" /> 
             <url id=" 5" src="http://hls.yy.com/live/46645489_2196889496.m3u8" tag="0" /> 
-			<url id=" 6" src="http://live.hdpfans.com/tv35/cctv12.m3u8/1409137354_fe85960e1b55d26d95a3c5b9f1bcdd13" tag="0" /> 
 		</channel>
         <channel id="1013" name="CCTV新闻" aliasname="cctv13" voiceTag="中央十三台#中央十三套#中央新闻台#中央新闻#中央新闻频道#" free="15">
 			<url id=" 0" src="http://api.veryhd.net/live_proxy/brtn/CCTV13.m3u8" tag="0" /> 
@@ -119,7 +114,6 @@
 			<url id=" 2" src="http://api.digomate.com/index.php/tv/source?key=Tb8mtHrhkShs" tag="0" />
 			<url id=" 3" src="http://proxy.vsf123.com/iptv/iptv_url/brtv/brtn.php?channel=12" tag="0" />
 			<url id=" 4" src="http://hls.yy.com/live/46645489_2196889577.m3u8" tag="0" />
-			<url id=" 5" src="http://live.hdpfans.com/tv35/cctvmusic.m3u8/1409137386_85cac090a70c5822e943924ba93c9729" tag="0" />
         </channel>
         <channel id="1031" name="江苏卫视" aliasname="jiangsu" voiceTag="江苏台#江苏卫视#江苏#" free="15"> 
 			<url id=" 0" src="http://14.22.0.26:80/live/5/30/238baa4ac12f427896cecf12234159ef.m3u8?type=m3u8.web.pad&amp;playback=0&amp;kk=e154c45066b89fd16cf7b11c57517175-b8d9-53b4fb95&amp;o=v.pptv.com" tag="0" />
@@ -239,10 +233,10 @@
         </channel>
         <channel id="1030" name="吉林卫视" aliasname="jilin" voiceTag="吉林卫视#吉林台#吉林#" free="15"> 
 			<url id=" 0" src="http://vapptime.cntv.wscdns.com/cache/139_/seg0/index.m3u8" tag="0" />
-			<url id=" 1" src="http://14.22.0.12:80/live/5/30/1fe374ae8a084e9290579d2b6982b71a.m3u8?type=m3u8.web.pad&amp;playback=0&amp;kk=2d97312eb5eafdd68c03457ab6d5d338-c4a2-53eb0ace&amp;o=v.pptv.com" tag="0" />
-			<url id=" 2" src="http://gslb.tv.sohu.com/live?cid=21&amp;type=hls&amp;ctype=m3u8" tag="0" />
-			<url id=" 3" src="http://vtime.cntv.wscdns.com/cache/139_/seg0/index.m3u8" tag="0" />
-			<url id=" 4" src="http://video.jlntv.cn/jlws/index.m3u8" tag="0" />
+			<url id=" 1" src="http://gslb.tv.sohu.com/live?cid=21&amp;type=hls&amp;ctype=m3u8" tag="0" />
+			<url id=" 2" src="http://vtime.cntv.wscdns.com/cache/139_/seg0/index.m3u8" tag="0" />
+			<url id=" 3" src="http://video.jlntv.cn/jlws/index.m3u8" tag="0" />
+			<url id=" 4" src="http://14.22.0.12:80/live/5/30/1fe374ae8a084e9290579d2b6982b71a.m3u8?type=m3u8.web.pad&amp;playback=0&amp;kk=2d97312eb5eafdd68c03457ab6d5d338-c4a2-53eb0ace&amp;o=v.pptv.com" tag="0" />
         </channel>
         <channel id="1026" name="河南卫视" aliasname="henan" voiceTag="河南卫视#河南台#河南#" free="15">
             <url id=" 0" src="http://zb.v.qq.com:1863/?progid=4172356212&amp;ostype=ios" tag="0" /> 
@@ -300,11 +294,11 @@
 			<url id=" 5" src="http://gslb.tv.sohu.com/live?cid=17&amp;type=hls" tag="0" />
         </channel>
         <channel id="1024" name="旅游卫视" aliasname="travel" voiceTag="旅游卫视#旅游台#旅游#" free="15">
-            <url id=" 0" src="http://14.22.0.24:80/live/5/30/0b5ee10d0b2548329e6c8febecc305a4.m3u8?type=m3u8.web.pad&amp;playback=0&amp;kk=b4a5df25b25d816e5175b2422253fb51-08c6-53b375c9&amp;o=v.pptv.com" tag="0" />	
-            <url id=" 1" src="http://vapptime.cntv.wscdns.com/cache/179_/seg0/index.m3u8?bitrate=800" tag="0" />
-            <url id=" 2" src="http://122.192.35.80:1931/live/lyws.stream/playlist.m3u8" tag="0" />
-			<url id=" 3" src="http://14.22.0.24/live/5/30/0b5ee10d0b2548329e6c8febecc305a4.m3u8?pre=ikan&amp;type=m3u8.web.pad" tag="0" />
-			<url id=" 4" src="http://gslb.tv.sohu.com/live?cid=28&amp;type=hls" tag="0" />
+            <url id=" 0" src="http://vapptime.cntv.wscdns.com/cache/179_/seg0/index.m3u8?bitrate=800" tag="0" />
+            <url id=" 1" src="http://122.192.35.80:1931/live/lyws.stream/playlist.m3u8" tag="0" />
+			<url id=" 2" src="http://14.22.0.24/live/5/30/0b5ee10d0b2548329e6c8febecc305a4.m3u8?pre=ikan&amp;type=m3u8.web.pad" tag="0" />
+			<url id=" 3" src="http://gslb.tv.sohu.com/live?cid=28&amp;type=hls" tag="0" />
+			<url id=" 4" src="http://14.22.0.24:80/live/5/30/0b5ee10d0b2548329e6c8febecc305a4.m3u8?type=m3u8.web.pad&amp;playback=0&amp;kk=b4a5df25b25d816e5175b2422253fb51-08c6-53b375c9&amp;o=v.pptv.com" tag="0" />	
 	   </channel>
         <channel id="1036" name="青海卫视" aliasname="unknow" voiceTag="青海卫视#青海台#青海#" free="15">
             <url id=" 0" src="http://14.22.0.24:80/live/5/30/0b94e35aa6be48b5b749f3fe160efc5e.m3u8?type=m3u8.web.pad&amp;playback=0&amp;kk=02247badecf1c053cd326eb565140a40-7465-53c0d771&amp;o=v.pptv.com" tag="0" />
@@ -1438,25 +1432,6 @@
             <url id=" 1" src="http://mobile.ccdntech.com/live/_definst_/vod111_Live/live2/playlist.m3u8" tag="0" />
         </channel>		
     </liveType>	
-    <liveType id="38" name="海外">
-        <channel id="37001" name="GGNTV韩语" aliasname="unknow" voiceTag="unknow" free="15">
-            <url id=" 0" src="http://liveedge1.cgntv.net:1935/liveedge_kr/phone_kr/playlist.m3u8" tag="0" />
-        </channel>	
-        <channel id="37002" name="BBC NEWS" aliasname="unknow" voiceTag="unknow" free="15">
-            <url id=" 0" src="http://hd4.lsops.net/live/bbcnews_en_hls.smil/chunklist_w1346820435_b364000.m3u8" tag="0" />
-        </channel>	
-        <channel id="37003" name="GGNTV日语" aliasname="unknow" voiceTag="unknow" free="15">
-            <url id=" 0" src="http://vod7.cgntv.net:1935/cgntv_jp/phone_jp/playlist.m3u8" tag="0" />
-        </channel>	
-        <channel id="37004" name="美国中文电视" aliasname="unknow" voiceTag="unknow" free="15">
-            <url id=" 0" src="http://ec.sinovision.net/video/ts/lv.m3u8" tag="0" />
-        </channel>	
-        <channel id="37005" name="BBC " aliasname="unknow" voiceTag="unknow" free="15">
-            <url id=" 0" src="http://ru-element.ru/playlist/playlist.php?ch=3&amp;r=my" tag="0" />
-        </channel>	
-        <channel id="37006" name="CNN" aliasname="unknow" voiceTag="unknow" free="15">
-            <url id=" 0" src="http://ru-element.ru/playlist/playlist.php?ch=15&amp;r=my" tag="0" />
-        </channel>			
-    </liveType>		
+
 	
 </response>
