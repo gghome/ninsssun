@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <response>
-    <version id="1.4.6"/>
+    <version id="1.4.7"/>
     <liveType id="1" name="基础频道">
         <channel id="1001" name="CCTV-1" aliasname="cctv1" voiceTag="中央一台#中央一套#中央台#综合频道#cctv1#" free="15">
 			<url id=" 0" src="http://api.veryhd.net/live_proxy/brtn/CCTV1HD.m3u8" tag="0" />
@@ -96,9 +96,8 @@
 			<url id=" 1" src="http://vtime.cntv.wscdns.com/cache/244_/seg0/index.m3u8" tag="0" /> 
 			<url id=" 2" src="http://vtime.cntv.wscdns.com/cache/244_/seg0/index.m3u8?bitrate=800" tag="0" />
             <url id=" 3" src="http://proxy.vsf123.com/iptv/iptv_url/brtv/brtn.php?channel=20" tag="0" />
-			<url id=" 4" src="http://api.digomate.com/index.php/tv/source?key=Whax9gQGR4tE" tag="0" /> 
-            <url id=" 5" src="http://hls.yy.com/live/46645489_2196889496.m3u8" tag="0" /> 
-			<url id=" 6" src="http://url.52itv.cn/live/6E436C7357745A68424D764C3179656BB9AA09.m3u8" tag="0" /> 
+            <url id=" 4" src="http://hls.yy.com/live/46645489_2196889496.m3u8" tag="0" /> 
+			<url id=" 5" src="http://url.52itv.cn/live/6E436C7357745A68424D764C3179656BB9AA09.m3u8" tag="0" /> 
 		</channel>
         <channel id="1013" name="CCTV新闻" aliasname="cctv13" voiceTag="中央十三台#中央十三套#中央新闻台#中央新闻#中央新闻频道#" free="15">
 			<url id=" 0" src="http://api.veryhd.net/live_proxy/brtn/CCTV13.m3u8" tag="0" /> 
@@ -192,12 +191,12 @@
             <url id=" 5" src="http://14.22.0.25/live/5/30/99c55805bf3f4867a34bc5bf7c9c4bc0.m3u8?pre=ikan&amp;type=m3u8.web.pad" tag="0" />			
         </channel>
         <channel id="1037" name="山东卫视" aliasname="shandong" voiceTag="山东卫视#山东台#山东#" free="15">
-			<url id=" 0" src="http://113.17.172.23:1863/3660187036.m3u8?apptype=unknow&amp;pla=unknow&amp;time=1405145896&amp;cdn=zijian" tag="0" />
-			<url id=" 1" src="http://14.22.0.17:80/live/5/30/3791a3d4b5214540bfe99b0680fbc76f.m3u8?type=m3u8.web.pad&amp;playback=0&amp;kk=5f26f3a5cb53a87cab478f9e91a28db1-8880-53ad1668&amp;o=v.pptv.com" tag="0" />
-			<url id=" 2" src="http://zb.v.qq.com:1863/?progid=3660187036&amp;ostype=ios" tag="0" />
-			<url id=" 3" src="http://gslb.tv.sohu.com/live?cid=14&amp;type=hls&amp;ctype=m3u8" tag="0" />
-			<url id=" 4" src="http://gslb.tv.sohu.com/live?cid=14&amp;type=hls" tag="0" />
-			<url id=" 5" src="http://vtime.cntv.wscdns.com/cache/274_/seg0/index.m3u8" tag="0" />
+			<url id=" 0" src="http://14.22.0.17:80/live/5/30/3791a3d4b5214540bfe99b0680fbc76f.m3u8?type=m3u8.web.pad&amp;playback=0&amp;kk=5f26f3a5cb53a87cab478f9e91a28db1-8880-53ad1668&amp;o=v.pptv.com" tag="0" />
+			<url id=" 1" src="http://zb.v.qq.com:1863/?progid=3660187036&amp;ostype=ios" tag="0" />
+			<url id=" 2" src="http://gslb.tv.sohu.com/live?cid=14&amp;type=hls&amp;ctype=m3u8" tag="0" />
+			<url id=" 3" src="http://gslb.tv.sohu.com/live?cid=14&amp;type=hls" tag="0" />
+			<url id=" 4" src="http://vtime.cntv.wscdns.com/cache/274_/seg0/index.m3u8" tag="0" />
+			<url id=" 5" src="http://113.17.172.23:1863/3660187036.m3u8?apptype=unknow&amp;pla=unknow&amp;time=1405145896&amp;cdn=zijian" tag="0" />
 	   </channel>
         <channel id="1025" name="河北卫视" aliasname="hebei" voiceTag="河北卫视#河北台#河北#" free="15">
 			<url id=" 0" src="http://vtime.cntv.wscdns.com/cache/129_/seg0/index.m3u8" tag="0" />
