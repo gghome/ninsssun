@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <response>
-    <version id="1.4.7"/>
+    <version id="1.4.8"/>
     <liveType id="1" name="基础频道">
         <channel id="1001" name="CCTV-1" aliasname="cctv1" voiceTag="中央一台#中央一套#中央台#综合频道#cctv1#" free="15">
 			<url id=" 0" src="http://api.veryhd.net/live_proxy/brtn/CCTV1HD.m3u8" tag="0" />
 			<url id=" 1" src="http://vtime.cntv.wscdns.com/cache/14_/seg0/index.m3u8?fp=1" tag="0" />
 			<url id=" 2" src="http://proxy.vsf123.com/iptv/iptv_url/brtv/brtn.php?channel=11" tag="0" />
 			<url id=" 3" src="http://api.digomate.com/index.php/tv/source?key=bVGxUHM4xFap" tag="0" />
-			<url id=" 4" src="http://122.227.245.147:8000/live/flv/channel11" tag="0" />
-			<url id=" 5" src="http://hls.yy.com/live/46645489_2196888501.m3u8" tag="0" />
+			<url id=" 4" src="http://hls.yy.com/live/46645489_2196888501.m3u8" tag="0" />
+			<url id=" 5" src="http://122.227.245.147:8000/live/flv/channel11" tag="0" />
 			<url id=" 6" src="http://cmvideoott.dnion.com/cctv1hd.m3u8?stbId=0066B37961B84A890D804725AFBEEBF0&amp;Contentid=8813322615956633846&amp;mos=&amp;channel-id=wasusyt" tag="0" />
-			<url id=" 7" src="http://myott.sinaapp.com/TV_Proxy/bcsduapp.php?VideoId=CCTV-1HD" tag="0" />
 		</channel>
         <channel id="1002" name="CCTV-2" aliasname="cctv2" voiceTag="中央二台#中央二套#中央经济频道#中央财经频道#中央经济台#cctv2#" free="15"> 
 			<url id=" 0" src="http://api.veryhd.net/live_proxy/brtn/CCTV2.m3u8" tag="0" />
@@ -243,7 +242,6 @@
 			<url id=" 1" src="http://zb.v.qq.com:1863/?progid=1000637964&amp;ostype=ios" tag="0" />
 			<url id=" 2" src="http://gslb.tv.sohu.com/live?cid=7&amp;type=hls" tag="0" />
 			<url id=" 3" src="http://vtime.cntv.wscdns.com/cache/154_/seg0/index.m3u8" tag="0" />
-			<url id=" 4" src="http://14.22.0.15:80/live/5/30/2ff29891287248c7aeb557129fd2b772.m3u8?playback=0&amp;pre=ikan&amp;o=m.pptv.com&amp;type=mpptv&amp;chid=300178&amp;k=" tag="0" />
         </channel>
         <channel id="1030" name="吉林卫视" aliasname="jilin" voiceTag="吉林卫视#吉林台#吉林#" free="15"> 
 			<url id=" 0" src="http://vapptime.cntv.wscdns.com/cache/139_/seg0/index.m3u8" tag="0" />
