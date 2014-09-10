@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <response>
-    <version id="1.5.3"/>
+    <version id="1.5.4"/>
     <liveType id="1" name="基础频道">
         <channel id="1001" name="CCTV-1" aliasname="cctv1" voiceTag="中央一台#中央一套#中央台#综合频道#cctv1#" free="15">
 			<url id=" 0" src="http://vtime.cntv.wscdns.com/cache/14_/seg0/index.m3u8?fp=1" tag="0" />
 			<url id=" 1" src="http://m3u8.sctv.com:51935/live/CCTV1_M.stream/playlist.m3u8" tag="0" />
 			<url id=" 2" src="http://api.digomate.com/index.php/tv/source?key=bVGxUHM4xFap" tag="0" />
 			<url id=" 3" src="http://hls.yy.com/live/46645489_2196888501.m3u8" tag="0" />
-			<url id=" 4" src="http://74.82.62.52:1935/liverepeater/15.stream/playlist.m3u8" tag="0" />
-			<url id=" 5" src="http://url.52itv.cn/live/6F736C50543337686173767953356E6A32F849.m3u8" tag="0" />
+			<url id=" 4" src="http://url.52itv.cn/live/6F736C50543337686173767953356E6A32F849.m3u8" tag="0" />
+			<url id=" 5" src="http://74.82.62.52:1935/liverepeater/15.stream/playlist.m3u8" tag="0" />
 		</channel>
         <channel id="1002" name="CCTV-2" aliasname="cctv2" voiceTag="中央二台#中央二套#中央经济频道#中央财经频道#中央经济台#cctv2#" free="15"> 
 			<url id=" 0" src="http://api.veryhd.net/live_proxy/brtn/CCTV2.m3u8" tag="0" />
@@ -217,9 +217,8 @@
         <channel id="1027" name="黑龙江卫视" aliasname="heilongjiang" voiceTag="黑龙江卫视#黑龙江台#黑龙江#" free="15">
 			<url id=" 0" src="http://vapptime.cntv.wscdns.com/cache/99_/seg0/index.m3u8" tag="0" /> 
 			<url id=" 1" src="http://121.199.22.39/blumedia/LanMei_ZhiBo/sohu.php?ch=83" tag="0" />
-			<url id=" 2" src="http://gslb.tv.sohu.com/live?cid=59&amp;type=hls" tag="0" />
-			<url id=" 3" src="http://14.22.0.26:80/live/5/30/f59d2cc92d944fd6baa0e7c6ffd0a0fc.m3u8?type=m3u8.web.pad&amp;playback=0&amp;kk=31a3a74024d7594b9fdc9c392fc26a52-4230-53b4fe3e&amp;o=v.pptv.com" tag="0" />   
-            <url id=" 4" src="http://live1.hljtv.com/channels/hljtv/wspd/flv:sd/live" tag="0" />
+			<url id=" 2" src="http://14.22.0.26:80/live/5/30/f59d2cc92d944fd6baa0e7c6ffd0a0fc.m3u8?type=m3u8.web.pad&amp;playback=0&amp;kk=31a3a74024d7594b9fdc9c392fc26a52-4230-53b4fe3e&amp;o=v.pptv.com" tag="0" />   
+            <url id=" 3" src="http://live1.hljtv.com/channels/hljtv/wspd/flv:sd/live" tag="0" />
 		</channel>
         <channel id="1041" name="四川卫视" aliasname="sichuan" voiceTag="四川卫视#四川台#四川#" free="15">
 		    <url id=" 0" src="http://zb.v.qq.com:1863/?progid=2453801339&amp;ostype=ios" tag="0" />
