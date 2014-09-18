@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <response>
-    <version id="1.5.9"/>
+    <version id="1.6.0"/>
     <liveType id="1" name="基础频道">
         <channel id="1001" name="CCTV-1" aliasname="cctv1" voiceTag="中央一台#中央一套#中央台#综合频道#cctv1#" free="15">
 			<url id=" 0" src="http://vtime.cntv.wscdns.com/cache/14_/seg0/index.m3u8?fp=1" tag="0" />
@@ -8,8 +8,9 @@
 			<url id=" 2" src="http://api.digomate.com/index.php/tv/source?key=bVGxUHM4xFap" tag="0" />
 			<url id=" 3" src="http://hls.yy.com/live/46645489_2196888501.m3u8" tag="0" />
 			<url id=" 4" src="http://api.veryhd.net/live_proxy/brtn/CCTV1.m3u8" tag="0" />
-			<url id=" 6" src="http://74.82.62.52:1935/liverepeater/15.stream/playlist.m3u8" tag="0" />
-			<url id=" 7" src="http://58.135.196.138:8090/live/db3bd108e3364bf3888ccaf8377af077/index.m3u8" tag="0" />
+			<url id=" 5" src="http://74.82.62.52:1935/liverepeater/15.stream/playlist.m3u8" tag="0" />
+			<url id=" 6" src="http://58.135.196.138:8090/live/db3bd108e3364bf3888ccaf8377af077/index.m3u8" tag="0" />
+		    <url id=" 7" src="http://m3u8.sctv.com:51935/live/CCTV1_M.stream/playlist.m3u8" tag="0" />
 		</channel>
         <channel id="1002" name="CCTV-2" aliasname="cctv2" voiceTag="中央二台#中央二套#中央经济频道#中央财经频道#中央经济台#cctv2#" free="15"> 
 			<url id=" 0" src="http://api.veryhd.net/live_proxy/brtn/CCTV2.m3u8" tag="0" />
