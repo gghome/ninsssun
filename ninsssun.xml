@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <response>
-    <version id="1.6.7"/>
+    <version id="1.6.8"/>
     <liveType id="1" name="基础频道">
         <channel id="1001" name="CCTV-1" aliasname="cctv1" voiceTag="中央一台#中央一套#中央台#综合频道#cctv1#" free="15">
 			<url id=" 0" src="http://vtime.cntv.wscdns.com/cache/14_/seg0/index.m3u8?fp=1" tag="0" />
@@ -18,9 +18,8 @@
 			<url id=" 2" src="http://vapptime.cntv.wscdns.com/cache/204_/seg0/index.m3u8" tag="0" />
 			<url id=" 3" src="http://url.52itv.cn/live/6E436C7357745A68424D764C3179365112A389.m3u8" tag="0" />
 			<url id=" 4" src="http://api.digomate.com/index.php/tv/source?key=isdFDtQ7Tl8E" tag="0" />
-			<url id=" 5" src="http://hls.yy.com/live/46645489_2196889106.m3u8" tag="0" />
-			<url id=" 6" src="http://5001.hls.cntv.cn.cloudcdn.net/cache/7_/seg0/index.m3u8" tag="0" />
-			<url id=" 7" src="http://58.135.196.138:8090/live/e31fa63612644555a545781ea32e66d4/index.m3u8" tag="0" />
+			<url id=" 5" src="http://5001.hls.cntv.cn.cloudcdn.net/cache/7_/seg0/index.m3u8" tag="0" />
+			<url id=" 6" src="http://58.135.196.138:8090/live/e31fa63612644555a545781ea32e66d4/index.m3u8" tag="0" />
         </channel>
         <channel id="1003" name="CCTV-3" aliasname="cctv3" voiceTag="中央三台#中央三套#中央文艺频道#中央文艺台#cctv3#" free="15">
 			<url id=" 0" src="http://vtime.cntv.wscdns.com/cache/209_/seg0/index.m3u8" tag="0" />
@@ -313,7 +312,6 @@
 		  </channel>
         <channel id="1042" name="天津卫视" aliasname="tianjin" voiceTag="天津卫视#天津台#天津#" free="15">   
 			<url id=" 0" src="http://183.61.62.141:1863/830075195.m3u8?apptype=unknow&amp;pla=unknow&amp;time=1404456691&amp;cdn=zijian" tag="0" />
-			<url id=" 1" src="http://14.22.0.26:80/live/5/30/0e14818cc6cf4b5e8469ffc9a15113a1.m3u8?type=m3u8.web.pad&amp;playback=0&amp;kk=971116febc0de56ba4c774a3d17bfa7c-546a-53b36efd&amp;o=v.pptv.com" tag="0" />
             <url id=" 2" src="http://gslb.tv.sohu.com/live?cid=15&amp;type=hls&amp;ctype=m3u8" tag="0" />
 			<url id=" 3" src="http://vapptime.cntv.wscdns.com/cache/79_/seg0/index.m3u8" tag="0" />
 			<url id=" 4" src="http://gslb.tv.sohu.com/live?cid=15&amp;type=hls" tag="0" />
