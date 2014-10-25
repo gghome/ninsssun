@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <response>
-    <version id="1.8.2"/>
+    <version id="1.8.4"/>
     <liveType id="1" name="基础频道">
         <channel id="1001" name="CCTV-1" aliasname="cctv1" voiceTag="中央一台#中央一套#中央台#综合频道#cctv1#" free="15">
 			<url id=" 0" src="http://vtime.cntv.wscdns.com/cache/14_/seg0/index.m3u8?fp=1" tag="0" />
@@ -58,13 +58,12 @@
         <channel id="1006" name="CCTV-6" aliasname="cctv6" voiceTag="中央六台#中央六套#中央电影频道#中央电影台#cctv6#" free="15">
 		    <url id=" 0" src="http://vtime.cntv.wscdns.com/cache/219_/seg0/index.m3u8" tag="0" />
 			<url id=" 1" src="http://vapptime.cntv.wscdns.com/cache/219_/seg0/index.m3u8" tag="0" />
-			<url id=" 2" src="http://121.11.90.66/live512/index_512k.m3u8" tag="0" />
-			<url id=" 3" src="http://api.veryhd.net/live_proxy/brtn/CCTV6.m3u8" tag="0" />
-			<url id=" 4" src="http://api.digomate.com/index.php/tv/source?key=M8SduhZ17AL5" tag="0" />
-			<url id=" 5" src="http://proxy.vsf123.com/iptv/iptv_url/brtv/brtn.php?channel=17" tag="0" />
-			<url id=" 6" src="http://url.52itv.cn/live/6E436C73577A763331666E73AD9A86.m3u8" tag="0" />
-			<url id=" 7" src="http://api.veryhd.net/Upload/live_proxy/brtn.php?channel=CCTV6" tag="0" />
-			<url id=" 8" src="http://58.135.196.138:8090/live/6132e9cb136050bd94822db31d1401af/index.m3u8" tag="0" />
+			<url id=" 2" src="http://api.veryhd.net/live_proxy/brtn/CCTV6.m3u8" tag="0" />
+			<url id=" 3" src="http://api.digomate.com/index.php/tv/source?key=M8SduhZ17AL5" tag="0" />
+			<url id=" 4" src="http://proxy.vsf123.com/iptv/iptv_url/brtv/brtn.php?channel=17" tag="0" />
+			<url id=" 5" src="http://url.52itv.cn/live/6E436C73577A763331666E73AD9A86.m3u8" tag="0" />
+			<url id=" 6" src="http://api.veryhd.net/Upload/live_proxy/brtn.php?channel=CCTV6" tag="0" />
+			<url id=" 7" src="http://58.135.196.138:8090/live/6132e9cb136050bd94822db31d1401af/index.m3u8" tag="0" />
 		</channel>
         <channel id="1007" name="CCTV-7" aliasname="cctv7" voiceTag="中央七台#中央七套#农业频道#军事频道#中央农业频道#中央军事频道#中央军事台#cctv7#" free="15">
 			<url id=" 0" src="http://vapptime.cntv.wscdns.com/cache/224_/seg0/index.m3u8" tag="0" />
@@ -191,7 +190,7 @@
         <channel id="1040" name="上海东方卫视" aliasname="dongfang" voiceTag="东方卫视#东方台#东方#" free="15">
 			<url id=" 0" src="http://vapptime.cntv.wscdns.com/cache/189_/seg0/index.m3u8" tag="0" />
 			<url id=" 1" src="http://zb.v.qq.com:1863/?progid=3900155972&amp;ostype=ios" tag="0" />
-			<url id=" 2" src="http://14.17.69.227/live/program/_mbmu001aBX_/livebbwx/weixindfws/workflow1/mnf.m3u8" tag="0" />
+			<url id=" 2" src="http://url.52itv.cn/live/537366325345376A5745624F62455638E06B57.m3u8" tag="0" />
 			<url id=" 3" src="http://14.22.0.26/live/5/30/887d4d23ee894ceb8f5f457fa24f3e97.m3u8?pre=ikan&amp;type=m3u8.web.pad" tag="0" />
 			<url id=" 4" src="http://14.22.0.15:80/live/5/30/887d4d23ee894ceb8f5f457fa24f3e97.m3u8?type=m3u8.web.pad&amp;playback=0&amp;kk=57c3e3a839e26d467072309209baeb79-9171-54374d10&amp;o=v.pptv.com" tag="0" />
 			<url id=" 5" src="http://gslb.tv.sohu.com/live?cid=3&amp;type=hls&amp;ctype=m3u8" tag="0" />
