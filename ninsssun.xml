@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <response>
-    <version id="1.9.3"/>
+    <version id="1.9.4"/>
     <liveType id="1" name="基础频道">
         <channel id="1001" name="CCTV-1" aliasname="cctv1" voiceTag="中央一台#中央一套#中央台#综合频道#cctv1#" free="15">
 			<url id=" 0" src="http://v14.tv.cctv5.cctv.com/approve/live?type=ipad&amp;channel=CCTV1HD" tag="0" />
@@ -12,6 +12,7 @@
 			<url id=" 6" src="http://lolbox.duapp.com/mcn1.php/cctv1.m3u8" tag="0" />
 			<url id=" 7" src="http://proxy.vsf123.com/iptv/iptv_url/brtv/brtn.php?channel=11" tag="0" />
 		    <url id=" 8" src="http://ws.cdn.brtn.cn/approve/live?channel=CCTV1&amp;type=ipad" tag="0" />
+			<url id=" 9" src="http://api.veryhd.net/Upload/live_proxy/brtn.php?channel=CCTV1" tag="0" />
 		</channel>
         <channel id="1002" name="CCTV-2" aliasname="cctv2" voiceTag="中央二台#中央二套#中央经济频道#中央财经频道#中央经济台#cctv2#" free="15"> 
 			<url id=" 0" src="http://vtime.cntv.wscdns.com/cache/204_/seg0/index.m3u8" tag="0" />
@@ -265,9 +266,11 @@
 		    <url id=" 0" src="http://zb.v.qq.com:1863/?progid=2453801339&amp;ostype=ios" tag="0" />
 			<url id=" 1" src="http://121.14.123.29:1863/2453801339.m3u8?apptype=unknow&amp;pla=unknow&amp;time=1404268297&amp;cdn=zijian" tag="0" />
 			<url id=" 2" src="http://vapptime.cntv.wscdns.com/cache/89_/seg0/index.m3u8" tag="0" />
-			<url id=" 3" src="http://play.api.pptv.com/web-m3u8-300177.m3u8?type=ipad" tag="0" />
-			<url id=" 4" src="http://14.22.0.29:80/live/5/30/88a56fc35880484095a31004b8be7afb.m3u8?playback=0&amp;pre=ikan&amp;o=m.pptv.com&amp;type=mpptv&amp;chid=300178&amp;k=" tag="0" />
-            <url id=" 5" src="http://url.52itv.cn/vlive/pptv/sichuan.m3u8" tag="0" />
+			<url id=" 3" src="http://220.181.73.131:8003/live/flv/channel59" tag="0" />
+			<url id=" 4" src="http://play.api.pptv.com/web-m3u8-300177.m3u8?type=ipad" tag="0" />
+			<url id=" 5" src="http://14.22.0.29:80/live/5/30/88a56fc35880484095a31004b8be7afb.m3u8?playback=0&amp;pre=ikan&amp;o=m.pptv.com&amp;type=mpptv&amp;chid=300178&amp;k=" tag="0" />
+            <url id=" 6" src="http://url.52itv.cn/vlive/pptv/sichuan.m3u8" tag="0" />
+			<url id=" 7" src="http://58.135.196.138:8090/live/5ED171EA38104b84B27AB533389E3611/index.m3u8" tag="0" />
 		</channel>
         <channel id="1028" name="湖北卫视" aliasname="hubei" voiceTag="湖北卫视#湖北台#湖北#" free="15">
 			<url id=" 0" src="http://121.14.123.29:1863/1128831868.m3u8?apptype=unknow&amp;pla=unknow&amp;time=1404268492&amp;cdn=zijian" tag="0" />
