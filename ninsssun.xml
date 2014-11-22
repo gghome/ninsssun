@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <response>
-    <version id="2.0.5"/>
+    <version id="2.0.6"/>
     <liveType id="1" name="基础频道">
         <channel id="1001" name="CCTV-1" aliasname="cctv1" voiceTag="中央一台#中央一套#中央台#综合频道#cctv1#" free="15">
 			<url id=" 0" src="http://cctv1.vtime.cntv.cloudcdn.net/cache/14_/seg0/index.m3u8" tag="0" />
@@ -8,7 +8,7 @@
 			<url id=" 2" src="http://api.digomate.com/tv?arg=cctv1&amp;type=2" tag="0" />
 			<url id=" 3" src="http://ws.cdn.brtn.cn/approve/live?channel=CCTV1&amp;type=ipad" tag="0" />
 			<url id=" 4" src="http://58.248.254.10:8080/pms_IphoneOnlinePlay?id=5" tag="0" />
-			<url id=" 5" src="http://122.192.35.76:1904/live/ys1.stream/playlist.m3u8" tag="0" />
+			<url id=" 5" src="http://hls.yy.com/live/46645489_2196888501.m3u8?id=utvgo" tag="0" />
 			<url id=" 6" src="http://113.107.113.15:81/youkulive/206/400/0/140276386940314036560.flv" tag="0" />
 			<url id=" 7" src="http://58.135.196.138:8090/live/db3bd108e3364bf3888ccaf8377af077/index.m3u8" tag="0" />
 		</channel>
@@ -16,7 +16,7 @@
 			<url id=" 0" src="http://cctv2.vtime.cntv.cloudcdn.net/cache/204_/seg0/index.m3u8" tag="0" />
 			<url id=" 1" src="http://xm-m3u8.3atv.cn/m3u8?version=123&amp;id=101380" tag="0" />
 			<url id=" 2" src="http://ws.cdn.brtn.cn/approve/live?channel=CCTV2&amp;type=ipad" tag="0" />
-			<url id=" 3" src="http://122.192.35.76:1904/live/ys2.stream/playlist.m3u8" tag="0" />
+			<url id=" 3" src="http://hls.yy.com/live/46645489_2196889106.m3u8?id=utvgo" tag="0" />
 			<url id=" 4" src="http://120.37.140.102:81/youkulive/205/400/0/140276386940314036560.flv" tag="0" />
 			<url id=" 5" src="http://58.248.254.10:8080/pms_IphoneOnlinePlay?id=6" tag="0" />
 			<url id=" 6" src="http://58.135.196.138:8090/live/e31fa63612644555a545781ea32e66d4/index.m3u8" tag="0" />
@@ -34,7 +34,7 @@
 			<url id=" 0" src="http://cctv4.vtime.cntv.cloudcdn.net/cache/19_/seg0/index.m3u8" tag="0" />
 			<url id=" 1" src="http://xm-m3u8.3atv.cn/m3u8?version=123&amp;id=101400" tag="0" />
 			<url id=" 2" src="http://ws.cdn.brtn.cn/approve/live?channel=CCTV4&amp;type=ipad" tag="0" />
-			<url id=" 3" src="http://122.192.35.76:1904/live/ys4.stream/playlist.m3u8" tag="0" />
+			<url id=" 3" src="http://202.102.79.116:554/zhibojs/cctv4.stream/playlist.m3u8" tag="0" />
 			<url id=" 4" src="http://58.248.254.10:8080/pms_IphoneOnlinePlay?id=7" tag="0" />
 			<url id=" 5" src="http://api.digomate.com/tv?arg=cctv4&amp;type=2" tag="0" />
 		    <url id=" 6" src="http://58.135.196.138:8090/live/56383AB184D54ac8B20478B6A43906DC/index.m3u8" tag="0" />
@@ -68,8 +68,7 @@
 			<url id=" 1" src="http://ws.cdn.brtn.cn/approve/live?channel=CCTV8&amp;type=ipad" tag="0" />
 			<url id=" 2" src="http://kmwakasa.duapp.com/hdv2/HDV2?channel=13" tag="0" /> 
 			<url id=" 3" src="http://1.202.169.181/channels/tvie/CCTV-8/flv:sd" tag="0" /> 
-			<url id=" 4" src="http://122.192.35.76:1904/live/ys8.stream/playlist.m3u8" tag="0" />
-			<url id=" 5" src="http://58.135.196.138:8090/live/6e38d69416f160bad4657788d6c06c01/index.m3u8" tag="0" />
+			<url id=" 4" src="http://58.135.196.138:8090/live/6e38d69416f160bad4657788d6c06c01/index.m3u8" tag="0" />
 	  </channel>
         <channel id="1009" name="CCTV-9" aliasname="cctvjilu" voiceTag="中央九台#中央九套#纪录片频道#纪录频道#中央纪录台#中央纪录频道#cctv9#" free="15">
 			<url id=" 0" src="http://cctv9.vtime.cntv.cloudcdn.net/cache/294_/seg0/index.m3u8" tag="0" />
@@ -82,8 +81,7 @@
 			<url id=" 1" src="http://xm-m3u8.3atv.cn/m3u8?version=123&amp;id=101460" tag="0" />
 			<url id=" 2" src="http://ws.cdn.brtn.cn/approve/live?channel=CCTV10&amp;type=ipad" tag="0" />
 			<url id=" 3" src="http://hls.yy.com/live/46645489_2196889341.m3u8?id=utvgo" tag="0" />
-			<url id=" 4" src="http://122.192.35.76:1904/live/ys10.stream/playlist.m3u8" tag="0" />
-			<url id=" 5" src="http://58.135.196.138:8090/live/a0effe8f31af0011b750e817c1b6e8c7/index.m3u8" tag="0" />
+			<url id=" 4" src="http://58.135.196.138:8090/live/a0effe8f31af0011b750e817c1b6e8c7/index.m3u8" tag="0" />
 		</channel>
         <channel id="1011" name="CCTV-11" aliasname="cctv11" voiceTag="中央十一台#中央十一套#戏曲频道#中央戏曲频道#中央戏曲台#cctv11#" free="15">
 			<url id=" 0" src="http://cctv11.vtime.cntv.cloudcdn.net/cache/239_/seg0/index.m3u8" tag="0" />
@@ -113,8 +111,7 @@
 			<url id=" 0" src="http://cctvchild.vtime.cntv.cloudcdn.net/cache/249_/seg0/index.m3u8" tag="0" />
 			<url id=" 1" src="http://xm-m3u8.3atv.cn/m3u8?version=123&amp;id=101500" tag="0" />
 			<url id=" 2" src="http://ws.cdn.brtn.cn/approve/live?channel=CCTV14&amp;type=ipad" tag="0" />
-			<url id=" 3" src="http://api.digomate.com/index.php/tv/source?key=m5vPFCF46McW" tag="0" />
-			<url id=" 4" src="http://58.135.196.138:8090/live/4A5DF0BA0C994081B02F8215491C4E48/index.m3u8" tag="0" />
+			<url id=" 3" src="http://58.135.196.138:8090/live/4A5DF0BA0C994081B02F8215491C4E48/index.m3u8" tag="0" />
 	   </channel>
         <channel id="1015" name="CCTV音乐" aliasname="cctv15" voiceTag="中央十五台#中央十五套#音乐频道#音乐台#中央音乐台#" free="15">
 			<url id=" 0" src="http://cctv15.vtime.cntv.cloudcdn.net/cache/254_/seg0/index.m3u8" tag="0" />
