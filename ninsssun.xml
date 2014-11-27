@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <response>
-    <version id="2.0.9"/>
+    <version id="2.1.0"/>
     <liveType id="1" name="基础频道">
         <channel id="1001" name="CCTV-1" aliasname="cctv1" voiceTag="中央一台#中央一套#中央台#综合频道#cctv1#" free="15">
 			<url id=" 0" src="http://cctv1.vtime.cntv.cloudcdn.net/cache/14_/seg0/index.m3u8" tag="0" />
@@ -9,15 +9,16 @@
 			<url id=" 3" src="http://ws.cdn.brtn.cn/approve/live?channel=CCTV1&amp;type=ipad" tag="0" />
 			<url id=" 4" src="http://tvindexlive02.yn.ysten.com:8080/ysten-business/live/cctv-1/vst.m3u8" tag="0" />
 			<url id=" 5" src="http://hls.yy.com/live/46645489_2196888501.m3u8?id=utvgo" tag="0" />
-			<url id=" 6" src="http://119.147.103.102:81/youkulive/206/400/0/140276386940314036560.flv" tag="0" />
+			<url id=" 6" src="http://live.bobuc.net/hls/test61/3.m3u8?key=7e1184bb214b34a25d64a273a19bbdad" tag="0" />
 			<url id=" 7" src="http://58.135.196.138:8090/live/db3bd108e3364bf3888ccaf8377af077/index.m3u8" tag="0" />
 		</channel>
         <channel id="1002" name="CCTV-2" aliasname="cctv2" voiceTag="中央二台#中央二套#中央经济频道#中央财经频道#中央经济台#cctv2#" free="15"> 
 			<url id=" 0" src="http://cctv2.vtime.cntv.cloudcdn.net/cache/204_/seg0/index.m3u8" tag="0" />
 			<url id=" 1" src="http://tvindexlive01.yn.ysten.com:8080/ysten-business/live/cctv-2/vst.m3u8" tag="0" />
 			<url id=" 2" src="http://ws.cdn.brtn.cn/approve/live?channel=CCTV2&amp;type=ipad" tag="0" />
-			<url id=" 3" src="http://hls.yy.com/live/46645489_2196889106.m3u8?id=utvgo" tag="0" />
-			<url id=" 4" src="http://58.135.196.138:8090/live/e31fa63612644555a545781ea32e66d4/index.m3u8" tag="0" />
+			<url id=" 3" src="http://219.133.170.226:6801/PLTV/88888888/224/3221225548/01.m3u8" tag="0" />
+			<url id=" 4" src="http://hls.yy.com/live/46645489_2196889106.m3u8?id=utvgo" tag="0" />
+			<url id=" 5" src="http://58.135.196.138:8090/live/e31fa63612644555a545781ea32e66d4/index.m3u8" tag="0" />
         </channel>
         <channel id="1003" name="CCTV-3" aliasname="cctv3" voiceTag="中央三台#中央三套#中央文艺频道#中央文艺台#cctv3#" free="15">
 			<url id=" 0" src="http://cctv3.vtime.cntv.cloudcdn.net/cache/209_/seg0/index.m3u8" tag="0" />
@@ -149,8 +150,6 @@
 			<url id=" 1" src="http://122.192.35.80:1931/live/bjws.stream/playlist.m3u8" tag="0" />
 			<url id=" 2" src="http://58.135.196.138:8090/live/a08e874562b90c6e65030729506618f2/index.m3u8" tag="0" />
 			<url id=" 3" src="http://ws.cdn.brtn.cn/approve/live?channel=BTV1&amp;type=ipad" tag="0" />
-			<url id=" 4" src="http://14.22.0.15/live/5/30/d005a79e2c474848a7b316f6f87cecee.m3u8?pre=ikan&amp;type=m3u8.web.pad" tag="0" />
-			<url id=" 5" src="http://14.22.0.24:80/live/5/30/d005a79e2c474848a7b316f6f87cecee.m3u8?type=m3u8.web.pad&amp;playback=0&amp;kk=e154c45066b89fd16cf7b11c57517175-b8d9-53b4fb95&amp;o=v.pptv.com" tag="0" />
         </channel>
         <channel id="1040" name="上海东方卫视" aliasname="dongfang" voiceTag="东方卫视#东方台#东方#" free="15">
 			<url id=" 0" src="http://dongfang.vtime.cntv.cloudcdn.net/cache/189_/seg0/index.m3u8" tag="0" />
@@ -165,8 +164,8 @@
 			<url id=" 1" src="http://220.170.192.165:80/live/5/45/e0a1564fc9cd4fb4bb4efe9e804d8bcf.m3u8?type=m3u8.web.pad" tag="0" />
 			<url id=" 2" src="http://httplive.gdtv.cn:1935/live/wxpd/playlist.m3u8" tag="0" />
 			<url id=" 3" src="http://14.22.0.15:80/live/5/30/e0a1564fc9cd4fb4bb4efe9e804d8bcf.m3u8?type=m3u8.web.pad&amp;playback=0&amp;kk=7ce26ef6e1062aa7b01a66db88afd0a7-0080-53d1b598&amp;o=v.pptv.com" tag="0" />
-			<url id=" 4" src="http://58.135.196.138:8090/live/F55DF37D4BB84bba8A0BBC7BECB94072/index.m3u8" tag="0" />
-			<url id=" 5" src="http://61.155.219.55:80/live/5/30/e0a1564fc9cd4fb4bb4efe9e804d8bcf.m3u8?playback=0&amp;pre=ikan&amp;type=m3u8.web.pad" tag="0" />
+			<url id=" 4" src="http://61.155.219.55:80/live/5/30/e0a1564fc9cd4fb4bb4efe9e804d8bcf.m3u8?playback=0&amp;pre=ikan&amp;type=m3u8.web.pad" tag="0" />
+			<url id=" 5" src="http://58.135.196.138:8090/live/F55DF37D4BB84bba8A0BBC7BECB94072/index.m3u8" tag="0" />
 			<url id=" 6" src="http://zb.v.qq.com:1863/?progid=857894899&amp;ostype=ios" tag="0" />	
         </channel>
 		 <channel id="1061" name="深圳卫视" aliasname="unknow" voiceTag="深圳卫视#" free="15"> 
