@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <response>
-    <version id="2.2.9"/>
+    <version id="2.3.0"/>
     <liveType id="1" name="基础频道">
         <channel id="1001" name="CCTV-1" aliasname="cctv1" voiceTag="中央一台#中央一套#中央台#综合频道#cctv1#" free="15">
 			<url id=" 0" src="http://myott.vipsinaapp.com/TV_Proxy/jz.php?VideoId=cctv1" tag="0" />
@@ -9,7 +9,6 @@
 			<url id=" 3" src="http://60.12.207.158:8000/live/flv/channel14" tag="0" />
 			<url id=" 4" src="http://121.199.22.39/blumedia/lanmei_tek/le_mao.php?ch=cctv1HD_1300" tag="0" />
 			<url id=" 5" src="http://tvindexlivephone.is.ysten.com:8080/ysten-business/live/cctv-1/z.m3u8" tag="0" />
-			<url id=" 6" src="http://14.17.89.196:454/46645489_2196888501_10057.m3u8" tag="0" />
 			<url id=" 7" src="http://live.bobuc.net/hls/test61/3.m3u8?key=7e1184bb214b34a25d64a273a19bbdad" tag="0" />
 		</channel>
         <channel id="1002" name="CCTV-2" aliasname="cctv2" voiceTag="中央二台#中央二套#中央经济频道#中央财经频道#中央经济台#cctv2#" free="15"> 
@@ -306,8 +305,8 @@
 		</channel>
         <channel id="1024" name="旅游卫视" aliasname="travel" voiceTag="旅游卫视#旅游台#旅游#" free="15">
 			<url id=" 0" src="http://url.52itv.cn/vlive/pptv/lvyou.m3u8" tag="0" />
-			<url id=" 1" src="http://web-play.pptv.com/web-m3u8-300158.m3u8?type=ipad" tag="0" />
-			<url id=" 2" src="http://14.22.0.24:80/live/5/30/0b5ee10d0b2548329e6c8febecc305a4.m3u8?type=m3u8.web.pad&amp;playback=0&amp;kk=b4a5df25b25d816e5175b2422253fb51-08c6-53b375c9&amp;o=v.pptv.com" tag="0" />	
+			<url id=" 1" src="http://web-play.pptv.com/web-m3u8-300158.m3u8?type=phone.ios" tag="0" />
+			<url id=" 2" src="http://14.22.0.15/live/5/30/0b5ee10d0b2548329e6c8febecc305a4.m3u8?type=phone.ios&amp;playback=0&amp;ip=14.22.0.15&amp;o=v.pptv.com" tag="0" />	
 	        <url id=" 3" src="http://122.192.35.80:1931/live/lyws.stream/playlist.m3u8" tag="0" />
 	  </channel>
         <channel id="1036" name="青海卫视" aliasname="unknow" voiceTag="青海卫视#青海台#青海#" free="15">
