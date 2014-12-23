@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <response>
-    <version id="2.3.1"/>
+    <version id="2.3.2"/>
     <liveType id="1" name="基础频道">
         <channel id="1001" name="CCTV-1" aliasname="cctv1" voiceTag="中央一台#中央一套#中央台#综合频道#cctv1#" free="15">
 			<url id=" 0" src="http://myott.vipsinaapp.com/TV_Proxy/jz.php?VideoId=cctv1" tag="0" />
 			<url id=" 1" src="http://a.puteasy.com:8800/authorize?chn_id=84&amp;mac=c6c3e11382b7&amp;mac_code=4694b1fe38be1ba8fd33293dc3919173&amp;sp=huanepg2014" tag="0" />
-			<url id=" 2" src="http://api.digomate.com/index.php/tv/source?key=p42KFKBYdXRa" tag="0" />
-			<url id=" 3" src="http://60.12.207.158:8000/live/flv/channel14" tag="0" />
-			<url id=" 4" src="http://121.199.22.39/blumedia/lanmei_tek/le_mao.php?ch=cctv1HD_1300" tag="0" />
-			<url id=" 5" src="http://tvindexlivephone.is.ysten.com:8080/ysten-business/live/cctv-1/z.m3u8" tag="0" />
-			<url id=" 6" src="http://live.bobuc.net/hls/test61/3.m3u8?key=7e1184bb214b34a25d64a273a19bbdad" tag="0" />
-			<url id=" 7" src="http://14.17.89.196:454/46645489_2196888501_10057.m3u8" tag="0" />
+			<url id=" 2" src="http://live.bobuc.net/hls/test61/3.m3u8?key=7e1184bb214b34a25d64a273a19bbdad" tag="0" />
+			<url id=" 3" src="http://tvindexlivephone.is.ysten.com:8080/ysten-business/live/cctv-1/z.m3u8" tag="0" />
+			<url id=" 4" src="http://14.17.89.196:454/46645489_2196888501_10057.m3u8" tag="0" />
+			<url id=" 5" src="http://60.12.207.158:8000/live/flv/channel14" tag="0" />
+			<url id=" 6" src="http://121.199.22.39/blumedia/lanmei_tek/le_mao.php?ch=cctv1HD_1300" tag="0" />
 		</channel>
         <channel id="1002" name="CCTV-2" aliasname="cctv2" voiceTag="中央二台#中央二套#中央经济频道#中央财经频道#中央经济台#cctv2#" free="15"> 
 			<url id=" 0" src="http://a.puteasy.com:8800/authorize?chn_id=155&amp;mac=c6c3e11382b7&amp;mac_code=4694b1fe38be1ba8fd33293dc3919173&amp;sp=huanepg2014" tag="0" />
