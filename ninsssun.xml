@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <response>
-    <version id="2.4.7"/>
+    <version id="2.4.8"/>
     <liveType id="1" name="基础频道">
         <channel id="1001" name="CCTV-1" aliasname="cctv1" voiceTag="中央一台#中央一套#中央台#综合频道#cctv1#" free="15">
 			<url id=" 0" src="http://myott.vipsinaapp.com/TV_Proxy/jz1.php?VideoId=cctv1" tag="0" />
 			<url id=" 1" src="http://a.puteasy.com:8800/authorize?chn_id=84&amp;mac=c6c3e11382b7&amp;mac_code=4694b1fe38be1ba8fd33293dc3919173&amp;sp=huanepg2014" tag="0" />
 			<url id=" 2" src="http://live.asbctv.com/hls-live/livepkgr/_definst_/liveevent/asUBiNYsYoats8AbvqT0mfBclSk246JHoLj0TIibO37R3zdi13.m3u8" tag="0" />
 			<url id=" 3" src="http://lolbox.duapp.com/proxy/cntv.php/cctv1.m3u8" tag="0" />
-			<url id=" 4" src="http://tvindexlivephone.is.ysten.com:8080/ysten-businessmmble/live/cctv-1/z.m3u8" tag="0" />
-			<url id=" 5" src="http://60.12.207.136:8000/live/flv/channel14" tag="0" />
+			<url id=" 4" src="http://60.12.207.136:8000/live/flv/channel14" tag="0" />
 		</channel>
         <channel id="1002" name="CCTV-2" aliasname="cctv2" voiceTag="中央二台#中央二套#中央经济频道#中央财经频道#中央经济台#cctv2#" free="15"> 
 			<url id=" 0" src="http://a.puteasy.com:8800/authorize?chn_id=155&amp;mac=c6c3e11382b7&amp;mac_code=4694b1fe38be1ba8fd33293dc3919173&amp;sp=huanepg2014" tag="0" />
 			<url id=" 1" src="http://myott.vipsinaapp.com/TV_Proxy/jz1.php?VideoId=cctv2" tag="0" />
 			<url id=" 2" src="http://lolbox.duapp.com/proxy/cntv.php/cctv2.m3u8" tag="0" />
 			<url id=" 3" src="http://60.12.207.136:8000/live/flv/channel201" tag="0" />
-			<url id=" 4" src="http://tvindexlivephone.is.ysten.com:8080/ysten-businessmmble/live/cctv-2/z.m3u8" tag="0" />
         </channel>
         <channel id="1003" name="CCTV-3" aliasname="cctv3" voiceTag="中央三台#中央三套#中央文艺频道#中央文艺台#cctv3#" free="15">
 			<url id=" 0" src="http://a.puteasy.com:8800/authorize?chn_id=145&amp;mac=c6c3e11382b7&amp;mac_code=4694b1fe38be1ba8fd33293dc3919173&amp;sp=huanepg2014" tag="0" />
@@ -35,22 +33,19 @@
 			<url id=" 0" src="http://a.puteasy.com:8800/authorize?chn_id=147&amp;mac=c6c3e11382b7&amp;mac_code=4694b1fe38be1ba8fd33293dc3919173&amp;sp=huanepg2014" tag="0" />
 			<url id=" 1" src="http://myott.vipsinaapp.com/TV_Proxy/jz1.php?VideoId=cctv5&amp;tn=2" tag="0" />
 			<url id=" 2" src="http://tvie03.ucatv.com.cn/channels/xjyx/CCTV5-Suma/m3u8:300k_flv" tag="0" />
-			<url id=" 3" src="http://tvindexlivephone.is.ysten.com:8080/ysten-businessmmble/live/cctv-5/z.m3u8" tag="0" />
-			<url id=" 4" src="http://60.12.207.136:8000/live/flv/channel214" tag="0" />
+			<url id=" 3" src="http://60.12.207.136:8000/live/flv/channel214" tag="0" />
         </channel>
         <channel id="1006" name="CCTV-6" aliasname="cctv6" voiceTag="中央六台#中央六套#中央电影频道#中央电影台#cctv6#" free="15">	
 			<url id=" 0" src="http://a.puteasy.com:8800/authorize?chn_id=153&amp;mac=c6c3e11382b7&amp;mac_code=4694b1fe38be1ba8fd33293dc3919173&amp;sp=huanepg2014" tag="0" />
 			<url id=" 1" src="http://myott.vipsinaapp.com/TV_Proxy/jz1.php?VideoId=cctv6" tag="0" />
 			<url id=" 2" src="http://proxy.vsf123.com/iptv/iptv_url/brtv/brtn.php?channel=18" tag="0" />
-			<url id=" 3" src="http://tvindexlivephone.is.ysten.com:8080/ysten-businessmmble/live/cctv-6/z.m3u8" tag="0" />
 			<url id=" 3" src="http://60.12.207.136:8000/live/flv/channel219" tag="0" />
 		</channel>
         <channel id="1007" name="CCTV-7" aliasname="cctv7" voiceTag="中央七台#中央七套#农业频道#军事频道#中央农业频道#中央军事频道#中央军事台#cctv7#" free="15">
 			<url id=" 0" src="http://a.puteasy.com:8800/authorize?chn_id=150&amp;mac=c6c3e11382b7&amp;mac_code=4694b1fe38be1ba8fd33293dc3919173&amp;sp=huanepg2014" tag="0" />
 	        <url id=" 1" src="http://myott.vipsinaapp.com/TV_Proxy/jz1.php?VideoId=cctv7" tag="0" />
 			<url id=" 2" src="http://60.12.207.136:8000/live/flv/channel224" tag="0" />
-			<url id=" 3" src="http://tvindexlivephone.is.ysten.com:8080/ysten-businessmmble/live/cctv-7/z.m3u8" tag="0" />
-			<url id=" 4" src="http://proxy.vsf123.com/iptv/iptv_url/brtv/brtn.php?channel=26" tag="0" />
+			<url id=" 3" src="http://proxy.vsf123.com/iptv/iptv_url/brtv/brtn.php?channel=26" tag="0" />
 	   </channel>
         <channel id="1008" name="CCTV-8" aliasname="cctv8" voiceTag="中央八台#中央八套#中央电视剧频道#中央电视剧台#cctv8#" free="15"> 
 			<url id=" 0" src="http://a.puteasy.com:8800/authorize?chn_id=148&amp;mac=c6c3e11382b7&amp;mac_code=4694b1fe38be1ba8fd33293dc3919173&amp;sp=huanepg2014" tag="0" />
@@ -67,7 +62,7 @@
         <channel id="1010" name="CCTV-10" aliasname="cctv10" voiceTag="中央十台#中央十套#科教频道#中央科教频道#cctv10#" free="15">
 			<url id=" 0" src="http://a.puteasy.com:8800/authorize?chn_id=146&amp;mac=c6c3e11382b7&amp;mac_code=4694b1fe38be1ba8fd33293dc3919173&amp;sp=huanepg2014" tag="0" />
 			<url id=" 1" src="http://myott.vipsinaapp.com/TV_Proxy/jz1.php?VideoId=cctv10" tag="0" />
-			<url id=" 2" src="http://tvindexlivephone.is.ysten.com:8080/ysten-businessmmble/live/cctv-10/z.m3u8" tag="0" />
+			<url id=" 2" src="http://lolbox.duapp.com/proxy/cntv.php/cctv10.m3u8" tag="0" />
 			<url id=" 3" src="http://60.12.207.136:8000/live/flv/channel231" tag="0" />
 		</channel>
         <channel id="1011" name="CCTV-11" aliasname="cctv11" voiceTag="中央十一台#中央十一套#戏曲频道#中央戏曲频道#中央戏曲台#cctv11#" free="15">
@@ -79,7 +74,7 @@
         <channel id="1012" name="CCTV-12" aliasname="cctv12" voiceTag="中央十二台#中央十二套#社会与法频道#法制频道#cctv12#" free="15">
 			<url id=" 0" src="http://a.puteasy.com:8800/authorize?chn_id=152&amp;mac=c6c3e11382b7&amp;mac_code=4694b1fe38be1ba8fd33293dc3919173&amp;sp=huanepg2014" tag="0" />
 			<url id=" 1" src="http://myott.vipsinaapp.com/TV_Proxy/jz1.php?VideoId=cctv12" tag="0" />
-			<url id=" 2" src="http://tvindexlivephone.is.ysten.com:8080/ysten-businessmmble/live/cctv-12/z.m3u8" tag="0" />
+			<url id=" 2" src="http://lolbox.duapp.com/proxy/cntv.php/cctv12.m3u8" tag="0" />
 			<url id=" 3" src="http://60.12.207.136:8000/live/flv/channel244" tag="0" />
 		</channel>
         <channel id="1013" name="CCTV新闻" aliasname="cctv13" voiceTag="中央十三台#中央十三套#中央新闻台#中央新闻#中央新闻频道#" free="15">
@@ -111,10 +106,8 @@
         <channel id="1029" name="湖南卫视" aliasname="hunan" voiceTag="湖南卫视#湖南台#湖南#" free="15">
 			<url id=" 0" src="http://myott.vipsinaapp.com/TV_Proxy/jz1.php?VideoId=hunan&amp;tn=1" tag="0" />
 			<url id=" 1" src="http://a.puteasy.com:8800/authorize?chn_id=164&amp;mac=001518018131&amp;mac_code=e36b560b4ae18308ae880a4dc1cf9351&amp;mcode=da549df5d6f6ac3760f11b009bf5f37e" tag="0" />
-			<url id=" 2" src="http://tvindexlivephone.is.ysten.com:8080/ysten-businessmmble/live/hunanstv/z.m3u8" tag="0" />
-			<url id=" 3" src="http://117.135.161.14/live/5/45/e9301e073cf94732a380b765c8b9573d.m3u8" tag="0" />
-			<url id=" 4" src="http://113.57.230.25:31637/live/hh$nn@xn/playlist.m3u8" tag="0" />
-			<url id=" 5" src="http://218.207.213.107/PLTV/88888888/224/3221225597/index.m3u8" tag="0" />
+			<url id=" 2" src="http://113.57.230.25:31637/live/hh$nn@xn/playlist.m3u8" tag="0" />
+			<url id=" 3" src="http://218.207.213.107/PLTV/88888888/224/3221225597/index.m3u8" tag="0" />
 	  </channel>
         <channel id="1046" name="浙江卫视" aliasname="zhejiang" voiceTag="浙江卫视#浙江台#浙江#" free="15">
             <url id=" 0" src="http://l.m.cztv.com:554/cztv1/live/playlist.m3u8" tag="0" />
