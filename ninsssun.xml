@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <response>
-    <version id="2.5.9"/>
+    <version id="2.6.0"/>
     <liveType id="1" name="基础频道">
         <channel id="1001" name="CCTV-1" aliasname="cctv1" voiceTag="中央一台#中央一套#中央台#综合频道#cctv1#" free="15">
 			<url id=" 0" src="http://a.puteasy.com:8800/authorize?chn_id=84&amp;mac=c6c3e11382b7&amp;mac_code=4694b1fe38be1ba8fd33293dc3919173&amp;sp=huanepg2014" tag="0" />
 			<url id=" 1" src="http://hls.yy.com/live/46645489_2196888501.m3u8?id=utvgo&amp;uid=7082e9225371781417c9ff0b50eb1e66&amp;user=wojsneiolbhjiejihgiehdjd&amp;uuid=1FEAB53A2519E55FF042A8FAFC3164BA" tag="0" />
 			<url id=" 2" src="http://113.207.58.12:5001/wtvlive/cntv/cctv1" tag="0" />
-			<url id=" 3" src="http://live.aishang.ctlcdn.com/live/ch136_10240001.m3u8" tag="0" />
-			<url id=" 4" src="http://live.aishang.ctlcdn.com/hls/ch136_10240001/ch136_10240001forsec.m3u8" tag="0" />
-		    <url id=" 5" src="http://60.12.207.153:8000/live/flv/channel14" tag="0" />
+			<url id=" 3" src="http://live11.asbctv.com/hls-live/livepkgr/_definst_/liveevent/asUBiNYsYoats8AbvqT0mfBclSk246JHoLj0TIibO37R3zdi13.m3u8" tag="0" />
+			<url id=" 4" src="http://live.aishang.ctlcdn.com/live/ch136_10240001.m3u8" tag="0" />
+			<url id=" 5" src="http://live.aishang.ctlcdn.com/hls/ch136_10240001/ch136_10240001forsec.m3u8" tag="0" />
+		    <url id=" 6" src="http://60.12.207.153:8000/live/flv/channel14" tag="0" />
 		</channel>
         <channel id="1002" name="CCTV-2" aliasname="cctv2" voiceTag="中央二台#中央二套#中央经济频道#中央财经频道#中央经济台#cctv2#" free="15"> 
 			<url id=" 1" src="http://cctv2.vtime.cntv.cloudcdn.net/cache/204_/seg0/index.m3u8" tag="0" />
@@ -27,12 +28,13 @@
 			<url id=" 1" src="http://113.207.58.12:5001/wtvlive/cntv/cctv4" tag="0" />
 			<url id=" 2" src="http://a.puteasy.com:8800/authorize?chn_id=154&amp;mac=c6c3e11382b7&amp;mac_code=4694b1fe38be1ba8fd33293dc3919173&amp;sp=huanepg2014" tag="0" />
 			<url id=" 3" src="http://live.aishang.ctlcdn.com/live/ch139_10240005.m3u8" tag="0" />
+			<url id=" 4" src="http://60.12.207.153:8000/live/flv/channel16" tag="0" />
 		</channel>
         <channel id="1005" name="CCTV-5" aliasname="cctv5" voiceTag="中央五台#中央五套#中央体育频道#中央体育台#cctv5#" free="15"> 
 			<url id=" 0" src="http://113.207.58.12:5003/wtvlive/baitv/cctv5" tag="0" />
 			<url id=" 1" src="http://a.puteasy.com:8800/authorize?chn_id=147&amp;mac=c6c3e11382b7&amp;mac_code=4694b1fe38be1ba8fd33293dc3919173&amp;sp=huanepg2014" tag="0" />
 			<url id=" 2" src="http://tvie03.ucatv.com.cn/channels/xjyx/CCTV5-Suma/m3u8:300k_flv" tag="0" />
-			<url id=" 3" src="http://202.102.79.116:554/live0129/cctv5.stream/playlist.m3u8" tag="0" />
+			<url id=" 3" src="http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8" tag="0" />
         </channel>
         <channel id="1006" name="CCTV-6" aliasname="cctv6" voiceTag="中央六台#中央六套#中央电影频道#中央电影台#cctv6#" free="15">	
 			<url id=" 0" src="http://a.puteasy.com:8800/authorize?chn_id=153&amp;mac=c6c3e11382b7&amp;mac_code=4694b1fe38be1ba8fd33293dc3919173&amp;sp=huanepg2014" tag="0" />
@@ -50,7 +52,7 @@
 			<url id=" 0" src="http://cctv8.vtime.cntv.cloudcdn.net/cache/229_/seg0/index.m3u8" tag="0" />
 			<url id=" 1" src="http://a.puteasy.com:8800/authorize?chn_id=148&amp;mac=c6c3e11382b7&amp;mac_code=4694b1fe38be1ba8fd33293dc3919173&amp;sp=huanepg2014" tag="0" />
 			<url id=" 2" src="http://60.12.207.136:8000/live/flv/channel229" tag="0" />
-			<url id=" 3" src="" tag="0" />
+			<url id=" 3" src="http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8" tag="0" />
 	  </channel>
         <channel id="1009" name="CCTV-9" aliasname="cctvjilu" voiceTag="中央九台#中央九套#纪录片频道#纪录频道#中央纪录台#中央纪录频道#cctv9#" free="15">
 			<url id=" 0" src="http://60.12.207.153:8000/live/flv/channel294" tag="0" />
@@ -69,14 +71,14 @@
         <channel id="1012" name="CCTV-12" aliasname="cctv12" voiceTag="中央十二台#中央十二套#社会与法频道#法制频道#cctv12#" free="15">
 		    <url id=" 0" src="http://cctv12.vtime.cntv.cloudcdn.net/cache/244_/seg0/index.m3u8" tag="0" />
 			<url id=" 1" src="http://a.puteasy.com:8800/authorize?chn_id=152&amp;mac=c6c3e11382b7&amp;mac_code=4694b1fe38be1ba8fd33293dc3919173&amp;sp=huanepg2014" tag="0" />
-			<url id=" 2" src="http://60.12.207.136:8000/live/flv/channel242" tag="0" />
+			<url id=" 2" src="http://60.12.207.153:8000/live/flv/channel242" tag="0" />
 		</channel>
         <channel id="1013" name="CCTV新闻" aliasname="cctv13" voiceTag="中央十三台#中央十三套#中央新闻台#中央新闻#中央新闻频道#" free="15">
 			<url id=" 0" src="http://live.3gv.ifeng.com/cctv13.m3u8" tag="0" />
 			<url id=" 1" src="http://hls.nntv.cn/hls/NNTV_CS.m3u8" tag="0" />
             <url id=" 2" src="http://live.3gv.ifeng.com/live/CCTV13.m3u8" tag="0" />		
             <url id=" 3" src="http://113.207.58.12:5001/wtvlive/cntv/cctv13" tag="0" />
-			<url id=" 4" src="http://api.veryhd.net/live_proxy/xztv/cctv13.m3u8" tag="0" />
+			<url id=" 4" src="http://112.53.80.52:8080/tslslive/rk8Z088/hls/live_sd.m3u8" tag="0" />
         </channel>
         <channel id="1014" name="CCTV少儿" aliasname="cctvchild" voiceTag="中央少儿台#中央少儿#少儿频道#少儿台#" free="15"> 
 		    <url id=" 0" src="http://cctvchild.vtime.cntv.cloudcdn.net/cache/249_/seg0/index.m3u8" tag="0" />
@@ -97,8 +99,8 @@
         </channel>
         <channel id="1029" name="湖南卫视" aliasname="hunan" voiceTag="湖南卫视#湖南台#湖南#" free="15">
 			<url id=" 0" src="http://live.aishang.ctlcdn.com/live/ch185_10240008.m3u8" tag="0" />
-			<url id=" 1" src="http://202.102.79.115:554/zb0129/hnws.stream/playlist.m3u8" tag="0" />
-			<url id=" 2" src="http://14.204.84.19:32028/live/rtmphntv/playlist.m3u8" tag="0" />
+			<url id=" 1" src="http://122.192.35.80:7015/live/hnws.stream/playlist.m3u8" tag="0" />
+			<url id=" 2" src="http://14.204.84.19:53135/live/rtmphntv/playlist.m3u8" tag="0" />
 	  </channel>
         <channel id="1046" name="浙江卫视" aliasname="zhejiang" voiceTag="浙江卫视#浙江台#浙江#" free="15">
             <url id=" 0" src="http://l.m.cztv.com:554/cztv1/live/playlist.m3u8" tag="0" />
