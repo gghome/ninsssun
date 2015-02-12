@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <response>
-    <version id="2.6.4"/>
+    <version id="2.6.5"/>
     <liveType id="1" name="基础频道">
         <channel id="1001" name="CCTV-1" aliasname="cctv1" voiceTag="中央一台#中央一套#中央台#综合频道#cctv1#" free="15">
 			<url id=" 0" src="http://a.puteasy.com:8800/authorize?chn_id=84&amp;mac=c6c3e11382b7&amp;mac_code=4694b1fe38be1ba8fd33293dc3919173&amp;sp=huanepg2014" tag="0" />
 			<url id=" 1" src="http://hls.yy.com/live/46645489_2196888501.m3u8?id=utvgo&amp;uid=7082e9225371781417c9ff0b50eb1e66&amp;user=wojsneiolbhjiejihgiehdjd&amp;uuid=1FEAB53A2519E55FF042A8FAFC3164BA" tag="0" />
 			<url id=" 2" src="http://113.207.58.12:5001/wtvlive/cntv/cctv1" tag="0" />
-			<url id=" 3" src="http://live11.asbctv.com/hls-live/livepkgr/_definst_/liveevent/asUBiNYsYoats8AbvqT0mfBclSk246JHoLj0TIibO37R3zdi13.m3u8" tag="0" />
-			<url id=" 4" src="http://live.aishang.ctlcdn.com/live/ch136_10240001.m3u8" tag="0" />
-			<url id=" 5" src="http://live.aishang.ctlcdn.com/hls/ch136_10240001/ch136_10240001forsec.m3u8" tag="0" />
+			<url id=" 3" src="http://live.aishang.ctlcdn.com/live/ch136_10240001.m3u8" tag="0" />
+			<url id=" 4" src="http://live.aishang.ctlcdn.com/hls/ch136_10240001/ch136_10240001forsec.m3u8" tag="0" />
 		</channel>
         <channel id="1002" name="CCTV-2" aliasname="cctv2" voiceTag="中央二台#中央二套#中央经济频道#中央财经频道#中央经济台#cctv2#" free="15"> 
 			<url id=" 1" src="http://cctv2.vtime.cntv.cloudcdn.net/cache/204_/seg0/index.m3u8" tag="0" />
